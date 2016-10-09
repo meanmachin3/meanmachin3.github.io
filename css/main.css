@@ -1,0 +1,73 @@
+.white {
+    color: #fff;
+}
+
+.amazonite {
+    color: #13C4A3;
+}
+
+.black {
+    color: #32322C;
+}
+
+.white-bg {
+    background-color: #fff;
+}
+
+.valign {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.ms-tableCell {
+    background-color: rgba(0,0,0,0.2);
+}
+
+.ms-static-title {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.ms-static-title a {
+    cursor: url(../images/plus.png) 40 40,crosshair;
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+    -ms-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.ms-static-title h1 {
+    font-family: "Raleway",Arial,Helvetica,sans-serif;
+    font-size: 28px;
+    font-weight: 300;
+    letter-spacing: 6px;
+    line-height: 46px;
+    text-transform: uppercase;
+}
+
+.ms-static-title h3 {
+    margin-top: 10px;
+}
+
+.ms-static-title h3 > span {
+    font-family: "Montserrat",Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 5px;
+    line-height: 15px;
+    padding: 5px;
+    padding-left: 5px;
+    text-transform: uppercase;
+}
+
+/********************************************************/
+.me {
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
