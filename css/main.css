@@ -32,7 +32,6 @@
 }
 
 .ms-static-title a {
-    cursor: url(../images/plus.png) 40 40,crosshair;
     -webkit-transition: all .4s ease-in-out;
     -moz-transition: all .4s ease-in-out;
     -ms-transition: all .4s ease-in-out;
@@ -67,9 +66,17 @@
 /********************************************************/
 .me {
     display:block;
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portfolio {
+    display:block;
+    width: 342px;
+    height: 192px;
     margin-left: auto;
     margin-right: auto;
 }
