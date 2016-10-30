@@ -1,6 +1,6 @@
 $(document).ready(function() {
             $('#myContainer').multiscroll({
-            	sectionsColor: ['#4C6085', '#39A0ED', '#36F1CD'],
+            	sectionsColor: ['#393E46', '#00ADB5', '#EEEEEE'],
             	//anchors: ['first', 'second', 'third'],
             	menu: '#menu',
             	navigation: true,
