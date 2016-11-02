@@ -1,5 +1,4 @@
-###Created with ♥ by Manish Yadav
-
+###Created with lots of ☕ and ⌛
 ####Created using 
 1. [Multiscroll.js](http://alvarotrigo.com/multiScroll/)
 2. [Bootstrap](http://getbootstrap.com/)
