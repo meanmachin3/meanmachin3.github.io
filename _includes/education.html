@@ -1,32 +1,15 @@
 <div id="education">
     <h2 class="heading">Education</h2>
+    {% for college in site.data.education %}
     <div class="education-block">
-        <h3>Thakur College of Engineering and Technology</h3>
-        <span class="education-date">Aug 2012 - 2016</span>
-        <h4>B.E. in Computer Engineering</h4>
+        <h3>{{ college.name }}</h3>
+        <span class="education-date">{{ college.year }}</span>
+        <h4>{{ college.specialization }}</h4>
         <p>
-            Aggregate CGPA : 8.15
+            {{ college.grade }}
         </p>
     </div>
-    <!-- End .education-block -->
-
-    <div class="education-block">
-        <h3>Thakur College of Science and Commerce</h3>
-        <span class="education-date">Aug 2010 - 2012</span>
-        <h4>Higher Secondary Board</h4>
-        <p>
-            Percentage: 76.33
-        </p>
-    </div>
-
-    <div class="education-block">
-        <h3>St. Mary's High School, Mira</h3>
-        <span class="education-date">Aug. 2003 - 2010</span>
-        <h4>Secondary Board</h4>
-        <p>
-            Percentage: 83.64
-        </p>
-    </div>
+    {% endfor %}
     <!-- End .education-block -->
 </div>
 <!-- End #education -->
