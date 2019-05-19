@@ -1,2 +1,7 @@
 node_modules/
 old_portfolio/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
