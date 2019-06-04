@@ -1,5 +1,20 @@
+- name: PayTM Insider
+  designation: Full Stack Engineer
+  date: September 2018 – July 2019
+  descriptions: 
+    - <b>Technologies :</b> Laravel, MySQL, Docker, Amazon Web Services, Kubernetes, Redis
+    - Worked as a Full Stack Engineer, to revamp existing accreditation system to improve it's security, added features such as permission management, barcode management, reports, notifications and communications to existing system.
+    - Developed integration, UI and unit test cases increasing code coverage from 0% to 82%.
+    - Decreased multiple API response time from 2-10s to < 500ms. Converted various synchronous jobs to assynchronous for better throughput.
+- name: IDfy
+  designation: Software Engineer 2
+  date: October 2017 – September 2018
+  descriptions:
+    - Complete ownership of application for tracking address verification task across various disciplines that helps our in-house operations team to create, update and manage leads. Expanded existing functionality and re-factored existing code to handle higher volumes and have better user experience
+    - Designed, developed and shipped TDD web application microservice to maintain SMS and email communication for all in-house projects
 - name: Newgen Software Technologies
   designation: Software Engineer
+  date: August 2016 – August 2017
   descriptions:
     - <a href="http://www.newgensoft.com/">Newgen Software</a> is a global provider of content and communication management solutions
     - <b>Technologies :</b> Android, jQuery UI, Bootstrap

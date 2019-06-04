@@ -1,9 +1,16 @@
 - name: JavaScript
-- name: Python
-- name: Java
+- name: Laravel
+- name: PHP
+- name: Ruby
+- name: Ruby on Rails
+- name: Docker
 - name: C
 - name: CSS
 - name: JQuery
 - name: Bootstrap
 - name: Linux
 - name: Git
+- name: Redis
+- name: Kubernetes
+- name: Amazon Web Services
+- name: Google Cloud Platform

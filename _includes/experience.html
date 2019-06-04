@@ -1,8 +1,8 @@
 <div id="experience" class="background-alt">
     <h2 class="heading">Experience</h2>
-    {% for company in site.data.experience %}
     <div id="experience-timeline">
-        <div data-date="August 2016 – August 2017">
+    {% for company in site.data.experience %}
+        <div data-date="{{ company.date }}">
             <h3>{{ company.name }}</h3>
             <h4>{{ company.designation }}</h4>
             <p>
@@ -15,8 +15,8 @@
                 </ol>
             </p>
         </div>
-    </div>
     {% endfor %}
+    </div>
 </div>
 
 <!-- End #experience -->
