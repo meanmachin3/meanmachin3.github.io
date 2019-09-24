@@ -5,7 +5,7 @@
     - <b>Technologies :</b> Laravel, MySQL, Docker, Amazon Web Services, Kubernetes, Redis
     - Worked as a Full Stack Engineer, to revamp existing accreditation system to improve it's security, added features such as permission management, barcode management, reports, notifications and communications to existing system.
     - Developed integration, UI and unit test cases increasing code coverage from 0% to 82%.
-    - Decreased multiple API response time from 2-10s to < 500ms. Converted various synchronous jobs to assynchronous for better throughput.
+    - Decreased multiple API response time from 2-10s to < 500ms. Converted various synchronous jobs to asynchronous for better throughput.
 - name: IDfy
   designation: Software Engineer 2
   date: October 2017 – September 2018
