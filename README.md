@@ -1,5 +1,6 @@
 ### Created with lots of ☕ and ⌛
 #### Created using 
-1. [Bootstrap](http://getbootstrap.com/)
-3. [JQuery](https://jquery.com/)
-4. [Font Awesome](http://fontawesome.io/)
+  - [Jekyll](https://jekyllrb.com/)
+  - [Bootstrap](http://getbootstrap.com/)
+  - [JQuery](https://jquery.com/)
+  - [Font Awesome](http://fontawesome.io/)
